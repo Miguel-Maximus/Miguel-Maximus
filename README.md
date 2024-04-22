@@ -1,16 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**Miguel-Maximus/Miguel-Maximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Miguel Maximus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+00001111395871sp@al.educacao.sp.gov.br
+@miguel maximus
+![Hiden](https://tenor.com/pt-BR/view/homer-simpson-homer-disappears-bush-hiding-gif-3377649)
+
+
+
+  
